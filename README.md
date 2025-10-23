@@ -2,3 +2,4 @@
 in class activity using git.
 Add a line
 add A line first 
+local minimum
